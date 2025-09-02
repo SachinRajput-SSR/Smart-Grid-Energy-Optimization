@@ -29,8 +29,8 @@ Smart-Grid-Energy-Optimization/
 ### Prerequisites
 - Python 3.x
 - Libraries: pandas, scikit-learn, matplotlib, seaborn, numpy
--Install required packages using:
-  pip install -r requirements.txt
+- Install required packages using:
+  - pip install -r requirements.txt
 
 ## License
 This project is licensed under the MIT License.
