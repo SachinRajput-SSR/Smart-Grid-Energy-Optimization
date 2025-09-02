@@ -24,7 +24,12 @@ Smart-Grid-Energy-Optimization/
 ├── LICENSE # License information
 ```
 
-## Getting Started
+### Features
+- Uses real-world inspired Smart Grid Stability dataset
+- Supervised learning (classification) with Random Forest and other models
+- Supports data exploration, cleaning, feature engineering, model training, and evaluation
+- Produces stability predictions and explains influential factors
+- Promotes sustainability and cyber-physical resilience in smart grids
 
 ### Prerequisites
 - Python 3.x
