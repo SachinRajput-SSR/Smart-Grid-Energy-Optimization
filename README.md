@@ -18,6 +18,7 @@ Smart-Grid-Energy-Optimization/
 │
 ├── notebooks/
 │ ├── 01_data_exploration.ipynb
+| ├── 02_model_training_evaluation.ipynb
 │
 ├── README.md # Project overview and instructions
 ├── requirements.txt # Python dependencies
